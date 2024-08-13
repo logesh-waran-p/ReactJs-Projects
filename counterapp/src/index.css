@@ -9,9 +9,9 @@
   font-size: 20px;
 }
 
-div > button {
-  padding: 7px 10px;
-  margin: 5px;
-  border-radius: 5px;
-  font-size: 20px;
+.btn {
+  padding: 15px 15px;
+  border-radius: 7px;
+  margin: 15px 0;
+  font-size: large;
 }
